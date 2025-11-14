@@ -1,0 +1,1 @@
+These are all the files that I worked on for my final project in my web design class. This was a group project where we were asked to design a webpage using everything that we learned throughout the semester. The group decided to make a website for an 80's diner. I was tasked with making all the pages related to the arcade.
